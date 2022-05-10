@@ -10,7 +10,7 @@
 |그리디 탐색|https://www.acmicpc.net/workbook/view/7320||
 |완전 탐색|https://www.acmicpc.net/workbook/view/9891||
 |BFS|https://www.acmicpc.net/workbook/view/7313||
-|DFS|https://www.acmicpc.net/workbook/view/7290||
+|DFS|https://www.acmicpc.net/workbook/view/1063||
 |다이나믹 프로그래밍|https://www.acmicpc.net/workbook/view/7319||
 ||||
 
