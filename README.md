@@ -23,7 +23,7 @@
 
 
 # 📅󠁡󠁦󠁬󠁯󠁧󠁿 Weekly Log
-|   |1|2|3|4|5|
+|   |1|2|3|4|
 |---|---|---|---|---|
 |1주차<br>(22.05.04~22.05.10)|[동전](https://www.acmicpc.net/problem/11047)|[회의실 배정](https://www.acmicpc.net/problem/1931)|[로프](https://www.acmicpc.net/problem/2217)|[보물](https://www.acmicpc.net/problem/1026)|
 |2주차<br>(22.05.11~22.05.17)|   |   |   |   ||
