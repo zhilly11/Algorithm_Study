@@ -10,21 +10,21 @@
 |그리디 탐색|https://www.acmicpc.net/workbook/view/7320||
 |완전 탐색|||
 |BFS|https://www.acmicpc.net/workbook/view/7313||
-|DFS|||
+|DFS|https://www.acmicpc.net/workbook/view/7290||
 |다이나믹 프로그래밍|https://www.acmicpc.net/workbook/view/7319||
 ||||
 
 
 
 # 📖Rules
-- 1주일에 5문제 풀기
+- 1주일에 4문제 풀기
 - 1시간 이상 막힌 문제는 구글링하기
 
 
 
 # 📅󠁡󠁦󠁬󠁯󠁧󠁿 Weekly Log
 |   |1|2|3|4|5|
-|---|---|---|---|---|---|
-|1주차<br>(22.05.04~22.05.10)|[동전](https://www.acmicpc.net/problem/11047)|[회의실 배정](https://www.acmicpc.net/problem/1931)|[로프](https://www.acmicpc.net/problem/2217)|[보물](https://www.acmicpc.net/problem/1026)|[ATM](https://www.acmicpc.net/problem/11399)|
+|---|---|---|---|---|
+|1주차<br>(22.05.04~22.05.10)|[동전](https://www.acmicpc.net/problem/11047)|[회의실 배정](https://www.acmicpc.net/problem/1931)|[로프](https://www.acmicpc.net/problem/2217)|[보물](https://www.acmicpc.net/problem/1026)|
 |2주차<br>(22.05.11~22.05.17)|   |   |   |   ||
 |3주차<br>(22.05.18~22.05.24)|   |   |   |   ||
