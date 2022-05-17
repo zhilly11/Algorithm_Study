@@ -17,14 +17,14 @@
 
 
 # 📖Rules
-- 1주일에 4문제 풀기
+- 1주일에 5문제 풀기
 - 1시간 이상 막힌 문제는 구글링하기
 
 
 
 # 📅󠁡󠁦󠁬󠁯󠁧󠁿 Weekly Log
-|   |1|2|3|4|
-|---|---|---|---|---|
+|   |1|2|3|4|5|
+|---|---|---|---|---|---|
 |1주차<br>(22.05.04~22.05.10)|[동전](https://www.acmicpc.net/problem/11047)|[회의실 배정](https://www.acmicpc.net/problem/1931)|[로프](https://www.acmicpc.net/problem/2217)|[보물](https://www.acmicpc.net/problem/1026)|
-|2주차<br>(22.05.11~22.05.17)|   |   |   |   ||
+|2주차<br>(22.05.11~22.05.17)|[ATM](https://www.acmicpc.net/problem/11399)|[공주님의 정원](https://www.acmicpc.net/problem/2457)|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[주식](https://www.acmicpc.net/problem/11501)|[수 묶기](https://www.acmicpc.net/problem/1744)|
 |3주차<br>(22.05.18~22.05.24)|   |   |   |   ||
