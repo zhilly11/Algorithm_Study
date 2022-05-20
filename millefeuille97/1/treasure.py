@@ -10,3 +10,5 @@ A = sorted(A)
 for i in range(N):
     S += A[i] * max(B)
     B.pop(B.index(max(B)))
+
+print(S)
