@@ -1,4 +1,4 @@
-package BOJ.Greedy.BOJ20220531;
+package BOJ.Greedy.BOJ0531;
 
 import java.io.BufferedReader;
 import java.io.IOException;
