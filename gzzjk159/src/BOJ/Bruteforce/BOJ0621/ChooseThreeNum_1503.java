@@ -16,7 +16,6 @@ public class ChooseThreeNum_1503 {
         boolean[] check = new boolean[1002];
         int n = Integer.parseInt(input[0]);
         int m = Integer.parseInt(input[1]);
-
         int x,y,z;
         int answer = Integer.MAX_VALUE;
 
@@ -43,6 +42,9 @@ public class ChooseThreeNum_1503 {
                     }
                     z = k;
                     answer = Math.min(answer, Math.abs(n-x*y*z));
+                    if(n+1<x*y*z){
+                        break;
+                    }
                 }
             }
         }
