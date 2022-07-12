@@ -30,6 +30,13 @@
 |3주차<br>(22.05.18~22.05.24)|[게임을 만든 동준이](https://www.acmicpc.net/problem/2847)|[뒤집기](https://www.acmicpc.net/problem/1439)|[강의실 배정](https://www.acmicpc.net/problem/11000)|[카드 합체 놀이](https://www.acmicpc.net/problem/15903)||
 |4주차<br>(22.05.25~22.05.31)|[선 긋기](https://www.acmicpc.net/problem/2170)|[멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)|[택배](https://www.acmicpc.net/problem/8980)|[줄 세우기](https://www.acmicpc.net/problem/7570)||
 |5주차<br>(22.06.01~22.06.07)|[블랙잭](https://www.acmicpc.net/problem/2798)|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[약수 구하기](https://www.acmicpc.net/problem/2501)|[화살표 그리기](https://www.acmicpc.net/problem/15970)|[단어 나누기](https://www.acmicpc.net/problem/1251)|
-|6주차<br>(22.06.08~22.06.21)|[수면장애](https://www.acmicpc.net/problem/12755)|[유미](https://www.acmicpc.net/problem/17286)|[세 수 고르기](https://www.acmicpc.net/problem/1503)|[연속부분최대곱](https://www.acmicpc.net/problem/2670)|[부분수열의 합](https://www.acmicpc.net/problem/14225)|
-|7주차<br>(22.06.22~22.06.28)|[]()|[]()|[]()|[]()|[]()|
-|8주차<br>(22.06.29~22.07.00)|[]()|[]()|[]()|[]()|[]()|
+|6주차<br>(22.06.08~22.06.21)|[수면장애](https://www.acmicpc.net/problem/12755)|[유미](https://www.acmicpc.net/problem/17286)|[세 수 고르기](https://www.acmicpc.net/problem/1503)|[연속부분최대곱](https://www.acmicpc.net/problem/2670)||
+|7주차<br>(22.06.22~22.06.28)|[부분수열의 합](https://www.acmicpc.net/problem/14225)|[토너먼트](https://www.acmicpc.net/problem/1057)|[DNA](https://www.acmicpc.net/problem/1969)|[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|[]()|
+|8주차<br>(22.06.29~22.07.05)|[퇴사](https://www.acmicpc.net/problem/14501)|[N-Queen](https://www.acmicpc.net/problem/9663)|[부분수열의 합](https://www.acmicpc.net/problem/1182)|[로마 숫자 만들기](https://www.acmicpc.net/problem/16922)|[]()|
+|9주차<br>(22.07.06~22.07.12)|[그림](https://www.acmicpc.net/problem/1926)|[미로탐색](https://www.acmicpc.net/problem/2178)|[토마토](https://www.acmicpc.net/problem/7576)|[불!](https://www.acmicpc.net/problem/4179)|[]()|
+|10주차<br>(22.00.00~22.00.00)|[]()|[]()|[]()|[]()|[]()|
+|11주차<br>(22.00.00~22.00.00)|[]()|[]()|[]()|[]()|[]()|
+|12주차<br>(22.00.00~22.00.00)|[]()|[]()|[]()|[]()|[]()|
+|13주차<br>(22.00.00~22.00.00)|[]()|[]()|[]()|[]()|[]()|
+|14주차<br>(22.00.00~22.00.00)|[]()|[]()|[]()|[]()|[]()|
+|15차<br>(22.00.00~22.00.00)|[]()|[]()|[]()|[]()|[]()|
