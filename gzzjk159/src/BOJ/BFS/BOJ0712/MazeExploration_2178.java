@@ -1,4 +1,4 @@
-package BOJ.BFS;
+package BOJ.BFS.BOJ0712;
 
 import java.io.BufferedReader;
 import java.io.IOException;
