@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class SBbuilding {
+public class SBbuilding_6593 {
     static int l,r,c;
     static char[][][] map;
     static StringBuilder sb = new StringBuilder();

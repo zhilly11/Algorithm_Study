@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class StartLink {
+public class StartLink_5014 {
     static int now;
     static int goal;
     static int[] check = new int[1000001];
