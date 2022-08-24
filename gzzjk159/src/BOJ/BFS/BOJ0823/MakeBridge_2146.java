@@ -25,6 +25,7 @@ public class MakeBridge_2146 {
                 map[i][j] = Integer.parseInt(input[j]);
             }
         }
+
         for (int i = 0; i < N; i++) {
             for (int j = 0; j < N; j++) {
                 if(map[i][j]==1){

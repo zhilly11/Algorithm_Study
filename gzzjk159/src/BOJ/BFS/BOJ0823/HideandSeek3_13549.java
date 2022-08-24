@@ -32,9 +32,15 @@ public class HideandSeek3_13549 {
             visited[node.x] = true;
             if (node.x == k) min = Math.min(min, node.time);
 
-            if (node.x * 2 <= max && !visited[node.x * 2]) q.offer(new Node(node.x * 2, node.time));
-            if (node.x + 1 <= max && !visited[node.x + 1]) q.offer(new Node(node.x + 1, node.time + 1));
-            if (node.x - 1 >= 0 && !visited[node.x - 1]) q.offer(new Node(node.x - 1, node.time + 1));
+            if (node.x * 2 <= max && !visited[node.x * 2]){
+                q.offer(new Node(node.x * 2, node.time));
+            }
+            if (node.x + 1 <= max && !visited[node.x + 1]){
+                q.offer(new Node(node.x + 1, node.time + 1));
+            }
+            if (node.x - 1 >= 0 && !visited[node.x - 1]){
+                q.offer(new Node(node.x - 1, node.time + 1));
+            }
         }
     }
 
@@ -45,7 +51,6 @@ public class HideandSeek3_13549 {
         public Node(int x, int time) {
             this.x = x;
             this.time = time;
-
         }
     }
 }
