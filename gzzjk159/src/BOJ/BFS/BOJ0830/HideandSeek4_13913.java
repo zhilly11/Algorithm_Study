@@ -17,6 +17,7 @@ public class HideandSeek4_13913 {
         k = Integer.parseInt(input[1]);
         bfs(n,k);
         System.out.println(check[k]-1);
+
         Stack<Integer> s =  new Stack<>();
         int idx = k;
         while(idx!=n){
