@@ -15,7 +15,7 @@ public class HideandSeek5_17071 {
 
         if(N == K){
             System.out.println(0);
-        }else {
+        } else {
             System.out.println(bfs(N));
         }
     }

@@ -2,12 +2,14 @@ package BOJ.BFS.boj0908;
 import java.util.*;
 import java.io.*;
 public class SwansLake_3197 {
+
     static int r,c,ex,ey;
     static char[][] map;
     static boolean[][] check;
     static Queue<int[]> wq,sq;
     static int[] dx = {-1,1,0,0};
     static int[] dy = {0,0,-1,1};
+
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
@@ -16,6 +18,7 @@ public class SwansLake_3197 {
         map = new char[r][c];
         wq = new LinkedList<>();
         sq = new LinkedList<>();
+
         int sx = -1, sy = -1;
         for(int i=0; i<r; i++) {
             String line = br.readLine();
