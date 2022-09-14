@@ -40,6 +40,7 @@ public class Connectcount_11724 {
         }
         System.out.println(answer);
     }
+
     static void dfs(int point){
         visited[point] = true;
         for (int i = 1; i <= n; i++) {

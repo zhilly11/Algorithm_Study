@@ -11,6 +11,7 @@ public class Avoidprog_1743 {
     static int[] dy = {0, 0, 1 ,-1};
     static int n,m;
     static int cnt ,answer;
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String[] input = br.readLine().split(" ");
@@ -40,6 +41,7 @@ public class Avoidprog_1743 {
         }
         System.out.println(answer);
     }
+
     static void dfs(int x, int y){
         cnt++;
         visited[x][y] = true;
