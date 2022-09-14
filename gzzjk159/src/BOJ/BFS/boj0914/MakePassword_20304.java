@@ -4,7 +4,6 @@ import java.util.*;
 import java.io.*;
 
 public class MakePassword_20304 {
-    static StringBuilder sb = new StringBuilder();
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
     static int answer;
@@ -12,7 +11,7 @@ public class MakePassword_20304 {
     public static void main(String[] args) throws IOException {
         int N = Integer.parseInt(br.readLine());//기본 입력
         int M = Integer.parseInt(br.readLine());
-        Deque<Integer> dq = new ArrayDeque<Integer>();
+        Deque<Integer> dq = new ArrayDeque<>();
         int[] arr = new int[1000001];//최대초기화
         Arrays.fill(arr, Integer.MIN_VALUE);
         st = new StringTokenizer(br.readLine());
