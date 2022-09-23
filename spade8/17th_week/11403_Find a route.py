@@ -17,7 +17,10 @@ for k in range(n):
 
 
 
+# for row in graph:
+#     for col in row:
+#         print(col, end = " ")
+#     print()
+
 for row in graph:
-    for col in row:
-        print(col, end = " ")
-    print()
+    print(*row)
