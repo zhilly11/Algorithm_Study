@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6a615ce-e381-4d07-a517-35352a6747b3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../19week/1463_make it 1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../19week/1463_rgb street.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../19week/2579_climbing stairs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../19week/9095_ 1, 2, 3 plus.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/Algorithm_Study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18th_week/.idea/18th_week.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20th_week/.idea/20th_week.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20th_week/1003_Fibonacci function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20th_week/11659_Find the sum of intervals 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20th_week/12852_make 1 to 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +17,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FvxYYPAOV0siVkeFwpFSft1cgG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,6 +31,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "D:/프로그래머스/programmers_ai_devcourse/4thWeek_Flask"
   }
 }]]></component>
@@ -38,5 +45,16 @@
       <updated>1665386407819</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
