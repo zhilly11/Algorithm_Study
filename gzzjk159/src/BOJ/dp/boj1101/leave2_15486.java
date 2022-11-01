@@ -1,17 +1,17 @@
-package BOJ.dp.boj1026;
+package BOJ.dp.boj1101;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class leave_14501 {
+public class leave2_15486 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         int n = Integer.parseInt(br.readLine());
-        int[] dp = new int[n+15];
-        int[] t = new int[n+15];
-        int[] p = new int[n+15];
+
+        int[] t = new int[n+2];
+        int[] p = new int[n+2];
 
         String[] input;
         for (int i = 1; i <= n; i++) {
@@ -20,14 +20,17 @@ public class leave_14501 {
             p[i] = Integer.parseInt(input[1]);
         }
 
-        for (int i = n; i > 0; i--) {
-            if (i + t[i] > n + 1) {
-                dp[i] = dp[i+1];
-            } else {
-                dp[i] = Math.max(dp[i+1], p[i] + dp[i+t[i]]);
+        int[] dp = new int[n+2];
+        int max = 0;
+        for (int i = 1; i < n+2; i++) {
+            if (max < dp[i]) {
+                max = dp[i];
+            }
+
+            if (i + t[i] < n+2) {
+                dp[i + t[i]] = Math.max(dp[i+t[i]], max + p[i]);
             }
         }
-        System.out.println(dp[1]);
+        System.out.println(max);
     }
-    // 수정 필요
 }
