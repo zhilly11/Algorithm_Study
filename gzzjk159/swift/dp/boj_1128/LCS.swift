@@ -1,4 +1,0 @@
-//
-//  LCS.swift
-
-import Foundation
