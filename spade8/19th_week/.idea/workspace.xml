@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6a615ce-e381-4d07-a517-35352a6747b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/Algorithm_Study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../18th_week/.idea/18th_week.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20th_week/.idea/20th_week.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20th_week/1003_Fibonacci function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20th_week/11659_Find the sum of intervals 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20th_week/12852_make 1 to 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
